@@ -7,6 +7,6 @@
 3. After extracting, go to localhost/phpmyadmin and create a new database and name it as flores_db_blog.
 4. After creating database(flores_db_blog), import the flores_db_blog.sql(which is found in my FloresBlog folder).
 5. After importing, go to localhost/FloresBlog
-6. (if it runs) Click Blogerist and then click Login.
-7. If you dont have account please click register and sign up and if you already have please sign in and login.
+6. (if you want to explore my app) Click Blogerist and then click Login.
+7. If you dont have account please click register then sign up and if you already have please sign in and login.
 8. You're in.
